@@ -2,43 +2,43 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-01-21T00:09:13 IST" name="Default suite" finished-at="2022-01-21T00:09:22 IST" duration-ms="9739">
+  <suite started-at="2022-01-27T09:58:10 IST" name="Default suite" finished-at="2022-01-27T09:58:21 IST" duration-ms="10942">
     <groups>
       <group name="regressionTest">
-        <method signature="CreateProductWithTeamSellingTest.createProductWithTeamSelling()[pri:0, instance:createProduct.CreateProductWithTeamSellingTest@3246fb96]" name="createProductWithTeamSelling" class="createProduct.CreateProductWithTeamSellingTest"/>
+        <method signature="CreateProductWithSupportGroupTest.createProductWithSupportGroup()[pri:0, instance:createProduct.CreateProductWithSupportGroupTest@73ee04c8]" name="createProductWithSupportGroup" class="createProduct.CreateProductWithSupportGroupTest"/>
       </group> <!-- regressionTest -->
     </groups>
-    <test started-at="2022-01-21T00:09:13 IST" name="Default test" finished-at="2022-01-21T00:09:22 IST" duration-ms="9739">
-      <class name="createProduct.CreateProductWithTeamSellingTest">
-        <test-method is-config="true" signature="configBs()[pri:0, instance:createProduct.CreateProductWithTeamSellingTest@3246fb96]" started-at="2022-01-21T00:09:13 IST" name="configBs" finished-at="2022-01-21T00:09:13 IST" duration-ms="11" status="PASS">
+    <test started-at="2022-01-27T09:58:10 IST" name="Default test" finished-at="2022-01-27T09:58:21 IST" duration-ms="10942">
+      <class name="createProduct.CreateProductWithSupportGroupTest">
+        <test-method is-config="true" signature="configBs()[pri:0, instance:createProduct.CreateProductWithSupportGroupTest@73ee04c8]" started-at="2022-01-27T09:58:10 IST" name="configBs" finished-at="2022-01-27T09:58:10 IST" duration-ms="12" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- configBs -->
-        <test-method is-config="true" signature="configBc()[pri:0, instance:createProduct.CreateProductWithTeamSellingTest@3246fb96]" started-at="2022-01-21T00:09:13 IST" name="configBc" finished-at="2022-01-21T00:09:15 IST" duration-ms="2098" status="PASS">
+        <test-method is-config="true" signature="configBc()[pri:0, instance:createProduct.CreateProductWithSupportGroupTest@73ee04c8]" started-at="2022-01-27T09:58:10 IST" name="configBc" finished-at="2022-01-27T09:58:12 IST" duration-ms="2252" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- configBc -->
-        <test-method is-config="true" signature="configBm()[pri:0, instance:createProduct.CreateProductWithTeamSellingTest@3246fb96]" started-at="2022-01-21T00:09:15 IST" name="configBm" finished-at="2022-01-21T00:09:17 IST" duration-ms="1818" status="PASS">
+        <test-method is-config="true" signature="configBm()[pri:0, instance:createProduct.CreateProductWithSupportGroupTest@73ee04c8]" started-at="2022-01-27T09:58:12 IST" name="configBm" finished-at="2022-01-27T09:58:14 IST" duration-ms="1741" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- configBm -->
-        <test-method signature="createProductWithTeamSelling()[pri:0, instance:createProduct.CreateProductWithTeamSellingTest@3246fb96]" started-at="2022-01-21T00:09:17 IST" name="createProductWithTeamSelling" finished-at="2022-01-21T00:09:21 IST" duration-ms="4620" status="PASS">
+        <test-method signature="createProductWithSupportGroup()[pri:0, instance:createProduct.CreateProductWithSupportGroupTest@73ee04c8]" started-at="2022-01-27T09:58:14 IST" name="createProductWithSupportGroup" finished-at="2022-01-27T09:58:19 IST" duration-ms="5490" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- createProductWithTeamSelling -->
-        <test-method is-config="true" signature="configAm()[pri:0, instance:createProduct.CreateProductWithTeamSellingTest@3246fb96]" started-at="2022-01-21T00:09:21 IST" name="configAm" finished-at="2022-01-21T00:09:22 IST" duration-ms="1000" status="PASS">
+        </test-method> <!-- createProductWithSupportGroup -->
+        <test-method is-config="true" signature="configAm()[pri:0, instance:createProduct.CreateProductWithSupportGroupTest@73ee04c8]" started-at="2022-01-27T09:58:19 IST" name="configAm" finished-at="2022-01-27T09:58:21 IST" duration-ms="1252" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- configAm -->
-        <test-method is-config="true" signature="configAc()[pri:0, instance:createProduct.CreateProductWithTeamSellingTest@3246fb96]" started-at="2022-01-21T00:09:22 IST" name="configAc" finished-at="2022-01-21T00:09:22 IST" duration-ms="157" status="PASS">
+        <test-method is-config="true" signature="configAc()[pri:0, instance:createProduct.CreateProductWithSupportGroupTest@73ee04c8]" started-at="2022-01-27T09:58:21 IST" name="configAc" finished-at="2022-01-27T09:58:21 IST" duration-ms="160" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- configAc -->
-        <test-method is-config="true" signature="configAs()[pri:0, instance:createProduct.CreateProductWithTeamSellingTest@3246fb96]" started-at="2022-01-21T00:09:22 IST" name="configAs" finished-at="2022-01-21T00:09:22 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="configAs()[pri:0, instance:createProduct.CreateProductWithSupportGroupTest@73ee04c8]" started-at="2022-01-27T09:58:21 IST" name="configAs" finished-at="2022-01-27T09:58:21 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- configAs -->
-      </class> <!-- createProduct.CreateProductWithTeamSellingTest -->
+      </class> <!-- createProduct.CreateProductWithSupportGroupTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

@@ -15,6 +15,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.Select;
 import org.testng.Assert;
+import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
 import com.crm.comcast.GenericUtility.BaseClass;
@@ -33,7 +34,7 @@ import com.crm.comcast.objectRepository.ProductInformationPage;
  * @author Rashmi T K
  *
  */
-
+@Listeners(com.crm.comcast.GenericUtility.ListenerImpClass.class)
 public class CreateProductWithSupportGroupTest extends BaseClass{
 /**
  * 
